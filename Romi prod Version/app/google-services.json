@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1041269412787",
+    "firebase_url": "https://romi-5e5dc.firebaseio.com",
+    "project_id": "romi-5e5dc",
+    "storage_bucket": "romi-5e5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041269412787:android:46728fe03e51d6fd",
+        "android_client_info": {
+          "package_name": "com.technolaji.romi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041269412787-o5bhnjtd376vipr19pfq3esmbiievlsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRX4JeFh9gphcoQ_djJFNBMJVKhWg7uTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041269412787:android:5d3c02991407ebfc",
+        "android_client_info": {
+          "package_name": "com.technolaji.romiglobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041269412787-o5bhnjtd376vipr19pfq3esmbiievlsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRX4JeFh9gphcoQ_djJFNBMJVKhWg7uTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

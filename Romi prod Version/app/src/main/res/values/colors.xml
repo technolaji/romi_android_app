@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="background">#4D394B</color>-->
+    <!--<color name="scrollview_background">#4D394B</color>-->
+    <!--<color name="buttonbgcolor">#20B2AA</color>-->
+    <!--<color name="textbuttoncolor">#ffffff</color>-->
+    <!--<color name="white">#fff</color>-->
+
+
+    <color name="colorPrimary">#3c7bda</color>
+    <color name="colorPrimaryDark">#20418d</color>
+    <color name="colorAccent">#26a385</color>
+    <color name="green">#26a385</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#FFFFFF</color>
+    <color name="dot_dark_screen2">#FFFFFF</color>
+    <color name="dot_dark_screen3">#FFFFFF</color>
+    <color name="dot_dark_screen4">#FFFFFF</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#1AFFFFFF</color>
+    <color name="dot_light_screen2">#1AFFFFFF</color>
+    <color name="dot_light_screen3">#1AFFFFFF</color>
+    <color name="dot_light_screen4">#1AFFFFFF</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="backgroundLoyalty">#0e4b5c</color>
+
+    <color name="background">#4D394B</color>
+    <color name="scrollview_background">#4D394B</color>
+    <color name="buttonbgcolor">#20B2AA</color>
+    <color name="textbuttoncolor">#ffffff</color>
+    <color name="white">#fff</color>
+
+</resources>

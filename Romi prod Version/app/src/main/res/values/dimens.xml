@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="mobicom_activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">100dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="welcome">20sp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="leftmargin">15dp</dimen>
+    <dimen name="rightmargin">15dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="appt_item_size">90dip</dimen>
+    <dimen name="schedule_item_size">90dip</dimen>
+    <dimen name="login_logo_margin">30dp</dimen>
+    <dimen name="input_text_size">18sp</dimen>
+    <dimen name="input_margin">10dp</dimen>
+    <dimen name="input_marginRL">20dp</dimen>
+    <dimen name="button_text_size">10sp</dimen>
+    <dimen name="reg_title_text_size">20sp</dimen>
+    <dimen name="reg_message_text_size">22sp</dimen>
+    <dimen name="reg_title_margin_top">80dp</dimen>
+    <dimen name="reg_layout_margin">40dp</dimen>
+    <dimen name="reg_input_title_margin_top">100dp</dimen>
+    <dimen name="chevron_padding_right">10dp</dimen>
+    <dimen name="title_size">13sp</dimen>
+    <dimen name="text_size">12sp</dimen>
+    <dimen name="gallery_space">5dp</dimen>
+    <dimen name="detail_panel_height">180dp</dimen>
+    <dimen name="big_text">160sp</dimen>
+    <dimen name="reg_button_padding">50dp</dimen>
+    <dimen name="profile_image_size">120dp</dimen>
+    <dimen name="review_image_size">90dp</dimen>
+    <dimen name="profile_cover_height">160dp</dimen>
+    <dimen name="edit_photo_size">80dp</dimen>
+    <dimen name="edit_profile_cover_size">80dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>
